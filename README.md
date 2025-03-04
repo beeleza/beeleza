@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Higor Beleza!
 
-<!--
-**beeleza/beeleza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Developer
 
-Here are some ideas to get you started:
+Passionate about clean code, scalable architectures, and solving real-world problems with Java. I have experience with Spring Boot, REST APIs, and microservices. Always learning and improving my skills to build efficient and maintainable software solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tech Stack:
+
+- Java | Spring Boot | Hibernate | JPA
+- REST APIs | Microservices | Docker
+- PostgreSQL | MySQL
+- Git | GitHub
+
+📌 What I'm working on:
+
+- Building backend applications with Spring Boot
+- Contributing to open-source projects
+
+ <!---- 📫 Let's connect!
+
+- LinkedIn: linkedin.com/in/higorbeleza ---->
