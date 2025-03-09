@@ -8,7 +8,7 @@ Passionate about clean code, scalable architectures, and solving real-world prob
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,linux,mysql,postgres,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,java,docker,linux" />
   </a>
 </p>
 
