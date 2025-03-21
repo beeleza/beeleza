@@ -28,8 +28,8 @@ Passionate about building scalable applications, clean code, and creating impact
 📊 GitHub Stats:
 
 <a href="https://github.com/beeleza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beeleza&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beeleza&show_icons=true&card_width=290&theme=tokyonight" />
 </a>
 <a href="https://github.com/beeleza/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeleza&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeleza&layout=compact&langs_count=8&card_width=290&theme=tokyonight" />
 </a>
