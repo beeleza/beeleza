@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Higor Beleza!
 
-### 💻 Java Developer
+### 💻 Fullstack Developer
 
-Passionate about clean code, scalable architectures, and solving real-world problems with Java. I have experience with Spring Boot, REST APIs, and microservices. Always learning and improving my skills to build efficient and maintainable software solutions.
+Passionate about building scalable applications, clean code, and creating impactful solutions. I specialize in backend development with Java and Spring Boot and nodejs, but I also enjoy working on the frontend using React. Always learning and improving my skills to craft efficient and maintainable software.
 
 🚀 Tech Stack:
 
@@ -25,11 +25,11 @@ Passionate about clean code, scalable architectures, and solving real-world prob
 
 - LinkedIn: linkedin.com/in/higorbeleza ---->
 
+📊 GitHub Stats:
+
 <a href="https://github.com/beeleza/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=beeleza&show_icons=true&theme=tokyonight" />
 </a>
-<!--
 <a href="https://github.com/beeleza/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=beeleza&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
--->
