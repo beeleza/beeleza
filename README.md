@@ -1,11 +1,3 @@
-<!-- Banner -->
-<p align="center">
-    <img src="https://raw.githubusercontent.com/beeleza/beeleza/main/banner-github.png"
-        alt="Higor Beleza - Desenvolvedor Full Stack" width="100%" />
-</p>
-
-## Higor Beleza
-
 ### 💻 Full Stack Developer
 Focus on scalable web applications, clean architecture, and systems integration. Experience with backend and frontend
 development, as well as modern DevOps practices.
