@@ -1,25 +1,43 @@
-### 💻 Full Stack Developer
-Focus on scalable web applications, clean architecture, and systems integration. Experience with backend and frontend
-development, as well as modern DevOps practices.
+## 💼 Systems Analyst & Full Stack Developer  
+Passionate about **system analysis, architecture, and web application development**.  
+Experienced in building **scalable applications**, **RESTful APIs**, and **system integrations** using modern technologies.  
+Skilled in the **entire development lifecycle**, from requirements gathering to deployment and production monitoring.  
 
-### 🚀 Technologies and Tools
+---
+
+### 🚀 Technologies and Tools  
 <div style="display: flex; flex-wrap: wrap;"> 
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" /> 
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" /> 
-        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" /> 
-        <img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=fff" /> 
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
-        <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" />
-        <img src="https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=fff" />
-        <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=fff" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000" />
 </div>
+
+---
+
+### ⚙️ Areas of Expertise
+- **Full Stack Development (React + Node.js)**  
+- **RESTful API design and integration**  
+- **Systems analysis and architecture**  
+- Process automation and system integration  
+- **NoSQL (MongoDB)** and **SQL** databases  
+- **Deployment and monitoring** in production environments  
+
+---
 
 ### 📊 GitHub Statistics
-<div> <img height="180em"
-        src="https://github-readme-stats.vercel.app/api?username=beeleza&show_icons=true&theme=tokyonight&hide_title=true" />
-    <img height="180em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeleza&layout=compact&theme=tokyonight" />
+<div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beeleza&show_icons=true&theme=tokyonight&hide_title=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeleza&layout=compact&theme=tokyonight" />
 </div>
 
+---
+
 ### 📫 Contact
-📧 higorbeleza.dev@gmail.com
+📧 **higorbeleza.dev@gmail.com**  
