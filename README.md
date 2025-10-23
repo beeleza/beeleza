@@ -21,13 +21,5 @@ Skilled in the **entire development lifecycle**, from requirements gathering to 
 
 ---
 
-### 📊 GitHub Statistics
-<div> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beeleza&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beeleza&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 📫 Contact
 📧 **higorbeleza.dev@gmail.com**  
