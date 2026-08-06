@@ -13,7 +13,7 @@ Currently, I'm studying software architecture, engineering best practices, and c
 ## Technologies I Use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,git,linux,mysql,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,git,linux,redis,mysql,postgres,docker" />
 </p>
 
 <!-- asdfasdf -->
